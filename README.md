@@ -1,7 +1,7 @@
 A modern, responsive currency converter application built with Vanilla JavaScript, featuring a sleek UI and live exchange rate integration.
 
 🌟 Key Features
-Real-time Conversion: Fetches 2026-standard exchange rates via a third-party API.
+Real-time Conversion: Fetches 2024-standard exchange rates via a third-party API.
 
 Currency Swap: A one-click feature to instantly swap "From" and "To" currencies using custom JavaScript logic.
 
