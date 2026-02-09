@@ -54,6 +54,7 @@ form input{
 }
 .select-container img{
     max-width: 2rem;
+    border-radius: 2rem;
 }
 
 .select-container{
